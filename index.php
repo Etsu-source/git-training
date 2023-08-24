@@ -1,5 +1,5 @@
 <?php
 
-echo 'Hola bb uwu, can u learn';
+echo 'Hola bb uwu, can u learn it?';
 
 ?>
